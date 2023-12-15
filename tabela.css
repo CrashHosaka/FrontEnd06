@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(43, 92, 226);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: chartreuse;
+
+}
+
+.conteudo {
+    background-color: violet;
+    width: 100%;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px darkblue;
+}
+
+#tabela{
+    background-color: chocolate;
+    border: 1px solid red;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+thead {
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px ;
+}
+
+button{
+    border-radius: 5px;
+}
+
+input{
+    outline: none;
+    border-radius: 5px;
+}
+
+thead {
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px ;
+}
+
+td {
+    border: 3px solid red;
+    padding: 10px;
+    border-bottom: 1px solid #0c0b0b;
+}
+
+button{
+    background-color: aquamarine;
+}
+
+tbody tr :hover{
+    background-color: burlywood;
+    color: brown;
+}
+button:hover{
+    background-color: cornflowerblue;
+    color:blueviolet;
+
+}
